@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="DataStructure">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="DataStructure.war" />
+  </artifact>
+</component>
